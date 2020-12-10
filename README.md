@@ -1,5 +1,4 @@
 # Survival
----
 
 survival.py is a Python package offering some basic survival analysis tools. All functions in this package are based on the theoretical knowledge from the book **Survival Analysis - Tehcniques for Censored and Truncated Data** by John Klein and Melvin Moeschberger.
 
